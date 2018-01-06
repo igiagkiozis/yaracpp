@@ -2,7 +2,7 @@
 ## CMake build script for yaracpp.
 ##
 
-cmake_minimum_required(VERSION 3.6)
+cmake_minimum_required(VERSION 3.9)
 project(yaracpp CXX C)
 
 # Use C++14
